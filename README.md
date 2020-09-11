@@ -1,9 +1,9 @@
 <img src="https://github.com/abdhub/about/blob/master/hello.gif" alt="Welcome to Shohin Abdulkhamidov's GitHub page.">
 
 ## About Me 
-My name is Shohin Abdulkhamidov. I'm from Tajikistan, Dushanbe.
+My name is Shohin Abdulkhamidov. I'm from Tajikistan, Dushanbe. Currently California Resident. Software Engineering Student at De Anza College. Looking For Internship Opportunity
 
-Software Engineering Student at De Anza College who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+Passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
 ## Technologies which I use:
 
