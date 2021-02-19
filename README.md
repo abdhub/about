@@ -19,7 +19,7 @@ Passionate about making open-source more accessible, creating technology to elev
 - Send me a friend's request to my <a href="https://www.facebook.com/s.abdulkhamidov/">Facebook Account</a>
 - Send me a friend's request to my <a href="https://vk.com/shohinus">VK Account</a>
 - Follow me on my <a href="https://www.instagram.com/shohin.abd/">Instagram Account.</a>
-- Connect to my <a href="https://www.linkedin.com/in/shohin-abd/">LinkedIn Account</a> for to find out more about me, as well as connection and networking purposes
+- Connect to my <a href="https://www.linkedin.com/in/shohin-abd/">LinkedIn Account</a> to find out more about me, as well as connection and networking purposes
 - Send me a friend's request to my <a href="https://steamcommunity.com/profiles/76561198390631558//">Steam Account</a> only for cooperative gaming. In addition I'm limited to Windows PC gaming because I'm MacOS user.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdhub&show_icons=true)
